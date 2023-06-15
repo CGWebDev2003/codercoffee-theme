@@ -1,0 +1,21 @@
+{
+  "name": "codercoffee-theme",
+  "displayName": "codercoffee-theme",
+  "description": "The official Coder Coffee Theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coder Coffee Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coder Coffee Theme-color-theme.json"
+      }
+    ]
+  }
+}
