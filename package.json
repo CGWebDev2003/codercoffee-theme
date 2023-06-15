@@ -2,8 +2,9 @@
   "name": "codercoffee-theme",
   "displayName": "codercoffee-theme",
   "icon": "./assets/logo256x256.png",
+  "publisher": "CoderCoffee",
   "description": "The official Coder Coffee Theme for VS Code",
-  "version": "0.0.1",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/CGWebDev2003/codercoffee-theme"
