@@ -1,14 +1,13 @@
-![Group@0,2x](https://github.com/CGWebDev2003/codercoffee-theme/assets/122671813/d67983ce-70d4-4bd7-bd6f-73f3aa145d86)
+<div align="center">
+  <img src="https://github.com/CGWebDev2003/codercoffee-theme/assets/122671813/cfc2e880-8748-4e9e-bdda-5cb8b5b9e847" alt="Coder Coffee Logo">
+  
+  # Coder Coffee Theme
+  
+  [Coder Coffee](https://codercoffee.de) is a small German coffee brand that has made it its mission to supply the world of coding with the best coffee. With a strong passion for coding and coffee, Coder Coffee combines the two worlds into a unique experience.
+  
+</div>
 
-
-
-
-
-# Coder Coffee Theme
-
-# Coder Coffee
-
-[Coder Coffee](https://codercoffee.de) is a small German coffee brand that has made it its mission to supply the world of coding with the best coffee. With a strong passion for coding and coffee, Coder Coffee combines the two worlds into a unique experience.
+---
 
 # Examples
 
